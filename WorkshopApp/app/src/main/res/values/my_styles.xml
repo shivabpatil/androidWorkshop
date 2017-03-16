@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppSmallText">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#616161</item>
+    </style>
+
+    <style name="AppMediumText">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#616161</item>
+    </style>
+
+    <style name="AppLargeText">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#616161</item>
+    </style>
+
+    <style name="AppEtraLargeText">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#616161</item>
+    </style>
+
+    <style name="AppEtraLargeLight">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#909090</item>
+    </style>
+
+    <style name="AppMyRadioButton">
+        <item name="android:text">My Radio Button</item>
+        <item name="android:textColor">#f00</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
+
+
+<!--added radion button style-->
